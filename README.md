@@ -2,6 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning JS,JAVA,HTML,CSS along with NODE 
 - 💞️ I’m looking to collaborate on various projects
+- ☺️ I'm a fullstack web developer 
 
 
 <!---
