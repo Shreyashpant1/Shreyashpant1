@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning JS,JAVA,HTML,CSS along with NODE 
 - 💞️ I’m looking to collaborate on various projects
 - ☺️ I'm a fullstack web developer 
+- Also you see my lastest posts on various projects and ongoing projects on given below links 
+- linkedin account:https://www.linkedin.com/in/shreyash-pant-b040502bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- X account:x.com/shreyashpant5
 
 
 <!---
