@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on various projects
 - ☺️ I'm a fullstack web developer 
 - Also you can see my lastest posts on various projects and ongoing projects on given below links 
-- linkedin account:https://www.linkedin.com/in/shreyash-pant-b040502bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- linkedin account:http://linkedin.com/in/shreyash-pant-b040502bb
 - X account:https://x.com/shreyashpant5
 
 
