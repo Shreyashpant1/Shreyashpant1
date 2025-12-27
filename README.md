@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Shreyashpant1<br>💞️ I’m looking to collaborate on various projects<br>☺️ I'm a fullstack web developer
+👋 Hi, I’m @Shreyashpant1<br>💞️ I’m looking to collaborate on various projects<br>☺️ I'm a fullstack web developer<br>✨Currently practising problems on DSA<br>
 
 
 # 💻 Tech Stack:
