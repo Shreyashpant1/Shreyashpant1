@@ -25,8 +25,8 @@
 - 💻 Hands-on experience building full-stack apps with the **MERN stack** and **Next.js 14 (App Router)**
 - 🔐 Comfortable with authentication systems, REST API design, and responsive UI development
 - 🧠 Exploring **Prompt Engineering, LLM Integration, and RAG**
-- 🏢 Software Development Engineer Intern @ **Kyzer Software India Pvt. Ltd.**
-- 🌐 Web Developer @ **Google Developer Groups on Campus (GDGoC), SKNCOE**
+- 🏢 Ex-Software Development Engineer Intern @ **Kyzer Software India Pvt. Ltd.**
+- 🌐 Ex-Web Developer @ **Google Developer Groups on Campus (GDGoC), SKNCOE**
 - 📈 190+ problems solved on LeetCode (79 Easy, 103 Medium, 8 Hard)
 
 ---
